@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "books": [
+    {
+      "id": "brothers-karamazov",
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "edition": "Penguin, 2003 (trans. David McDuff)",
+      "accent": "blue",
+      "chapters": 96,
+      "questions": 817,
+      "version": 1,
+      "bytes": 699419,
+      "sha256": "aaa617fd831c717a5acad82c865fa120154b8bb05d66945be072d3f00b83508a"
+    }
+  ]
+}
