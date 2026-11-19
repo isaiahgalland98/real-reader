@@ -12,6 +12,18 @@
       "version": 1,
       "bytes": 699419,
       "sha256": "aaa617fd831c717a5acad82c865fa120154b8bb05d66945be072d3f00b83508a"
+    },
+    {
+      "id": "words-of-radiance",
+      "title": "Words of Radiance",
+      "author": "Brandon Sanderson",
+      "edition": "Tor, 2014 (ebook)",
+      "accent": "yellow",
+      "chapters": 105,
+      "questions": 783,
+      "version": 1,
+      "bytes": 463076,
+      "sha256": "5d1f56efa1fcaf6285d669ad7e6f6c69da2da77752b3b6106f629a9915b973f9"
     }
   ]
 }
