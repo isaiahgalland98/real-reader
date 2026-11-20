@@ -26,6 +26,18 @@
       "sha256": "aaa617fd831c717a5acad82c865fa120154b8bb05d66945be072d3f00b83508a"
     },
     {
+      "id": "the-robe",
+      "title": "The Robe",
+      "author": "Lloyd C. Douglas",
+      "edition": "Faded Page, 2019 (ebook)",
+      "accent": "lime",
+      "chapters": 25,
+      "questions": 210,
+      "version": 1,
+      "bytes": 170058,
+      "sha256": "96eda40e5b0d3172b8487d32985a2fc85e1ac7d1dc19ce6e4bd4ee78334bd271"
+    },
+    {
       "id": "words-of-radiance",
       "title": "Words of Radiance",
       "author": "Brandon Sanderson",
