@@ -2,6 +2,18 @@
   "schema": 1,
   "books": [
     {
+      "id": "little-women",
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "edition": "Standard Ebooks, 2016 (ebook)",
+      "accent": "pink",
+      "chapters": 47,
+      "questions": 386,
+      "version": 1,
+      "bytes": 291073,
+      "sha256": "46757251cb82e11b0f08b1b01ee900be4fe9ce0fcc7ff58e09621dbce37514e4"
+    },
+    {
       "id": "brothers-karamazov",
       "title": "The Brothers Karamazov",
       "author": "Fyodor Dostoevsky",
